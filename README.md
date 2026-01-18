@@ -11,11 +11,11 @@ work together and communicate.
 
 ## Features
 
-- Popup interface for user interaction
-- Background service worker for extension-level logic
-- Content script to interact with web pages
-- Options page for managing extension settings
-- Proper configuration using `manifest.json` (Manifest V3)
+- Popup interface for user interaction <br>
+- Background service worker for extension-level logic <br>
+- Content script to interact with web pages <br>
+- Options page for managing extension settings <br>
+- Proper configuration using `manifest.json` (Manifest V3) <br>
 
 ---
 
