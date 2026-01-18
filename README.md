@@ -21,15 +21,15 @@ work together and communicate.
 
 ## Project Structure
 
-├── manifest.json # Extension configuration file
-├── background.js # Background service worker
-├── content.js # Content script
-├── popup.html # Popup UI
-├── popup.js # Popup functionality
-├── options.html # Options page UI
-├── options.js # Options page logic
-├── icon.png # Extension icon
-├── README.md # Project documentation
+─ manifest.json # Extension configuration file
+─ background.js # Background service worker
+─ content.js # Content script
+─ popup.html # Popup UI
+─ popup.js # Popup functionality
+─ options.html # Options page UI
+─ options.js # Options page logic
+─ icon.png # Extension icon
+─ README.md # Project documentation
 
 ---
 
